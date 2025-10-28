@@ -8,9 +8,8 @@ This project focuses on detecting fraudulent credit card transactions using mach
 #  Tech Stacks -->
 Python
 Pandas, NumPy – Data manipulation and preprocessing
-Matplotlib, Seaborn – Data visualization
 Scikit-learn – Model building and evaluation
-Machine Learning Algorithms: Logistic Regression, Random Forest, Decision Tree, etc.
+Machine Learning Algorithms: Logistic Regression.
 Techniques: PCA, SMOTE (for balancing), Feature Scaling, Model Evaluation Metrics.
 
 # Data Source -->
@@ -18,4 +17,6 @@ This dataset is from kaggle. --->https://www.kaggle.com/datasets/mlg-ulb/creditc
 
 # 📈 Results -->
 
-The model successfully detects fraudulent transactions with high precision and recall, demonstrating the potential of machine learning in identifying anomalies within highly imbalanced datasets.
+The model successfully detects fraudulent transactions with high accuracy score, demonstrating the potential of machine learning in identifying anomalies within highly imbalanced datasets.
+
+
